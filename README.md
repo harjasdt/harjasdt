@@ -1,5 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=harjasDot.harjasDot">
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=harjasDot.visitor-badge)
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
