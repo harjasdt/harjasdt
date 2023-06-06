@@ -1,23 +1,22 @@
-<h1 align="center">Hi 👋, I'm Harjas Wadhwa</h1>
-<h3 align="center">A passionate Full-Stack developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harjasdt&label=Profile%20views&color=0e75b6&style=flat" alt="harjasdt" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harjasdt" alt="harjasdt" /></a> </p>
+<h1 align="center">Hi 👋, I'm Harjas Wadhwa</h1>
+<h3 align="center">A passionate Full-Stack Developer from India</h3>
+
+
+
 
 - 🔭 I’m currently working on **Data Structures & Algorithms**
 
 - 🌱 I’m currently learning **AI/ML|Deep Learning**
 
-- 👨‍💻 All of my projects are available at [harjas.tech/projects.html](harjas.tech/projects.html)
+- 👨‍💻 All of my projects are available [Here](https://harjas.tech/projects.html)
 
-- 📝 I regularly write articles on [harjas.tech/articles.html](harjas.tech/articles.html)
+- 📝 I regularly write articles [Here](https://harjas.tech/articles.html)
 
 - 💬 Ask me about **Django, Database Architecture**
 
-- 📫 How to reach me **singh.harjas2002@gmail.com**
-
-- 📄 Know about my experiences [harjas.tech](harjas.tech)
+- 📄 Know more about me at [harjas.tech](https://harjas.tech/index.html)
 
 - ⚡ Fun fact **let's go on a run**
 
